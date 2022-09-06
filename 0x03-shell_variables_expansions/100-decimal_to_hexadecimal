@@ -1,2 +1,2 @@
 #!/bin/bash
-asaa
+printf '%x\n' $DECIMAL
